@@ -5,7 +5,7 @@
 <!--Languages-->
 
 <div align="center">
-<img src = "images/languages/html.png" width =60px alt =  "HTML" />
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/HTML" target ="_blank"> <img src = "images/languages/html.png" width =60px alt =  "HTML" /> </a>
 <img src = "images/languages/css.png" width = 60px alt = "CSS" />
 <img src = "images/languages/js.png" alt ="JavaScript" width = 60px />
 </div>
