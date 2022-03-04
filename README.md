@@ -5,9 +5,9 @@
 <!--Languages-->
 
 <div align="center">
-<a href = "https://developer.mozilla.org/pt-BR/docs/Web/HTML" > <img src = "images/languages/html.png" width =60px alt =  "HTML" /> </a>
-<a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"> <img src = "images/languages/css.png" width = 60px alt = "CSS" /> </a>
-<a href = "https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript"> <img src = "images/languages/js.png" alt ="JavaScript" width = 60px /> </a>
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/HTML" > <img src = "images/languages/html.png" width =60px alt =  "HTML" /></a>
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"> <img src = "images/languages/css.png" width = 60px alt = "CSS" /></a>
+<a href = "https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript"> <img src = "images/languages/js.png" alt ="JavaScript" width = 60px /></a>
 </div>
 
 <!--Languages-->
@@ -31,7 +31,7 @@
 <!--Contact me -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/adynan-araújo-2a3213231"><img src="images/connect/in.png" width = 25px/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/adynan-araújo-2a3213231"><img src="images/connect/in.png" width = 25px/></a>&nbsp;&nbsp;
   <a href="mailto:adynan268@gmail.com"><img src="images/connect/gmail.png" alt="email" width = 25px/></a>
 </div>
 
