@@ -5,7 +5,7 @@
 <!--Languages-->
 
 <div align="center">
-<a href = "https://developer.mozilla.org/pt-BR/docs/Web/HTML" target ="_blank"> <img src = "images/languages/html.png" width =60px alt =  "HTML" /> </a>
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/HTML" > <img src = "images/languages/html.png" width =60px alt =  "HTML" /> </a>
 <img src = "images/languages/css.png" width = 60px alt = "CSS" />
 <img src = "images/languages/js.png" alt ="JavaScript" width = 60px />
 </div>
@@ -15,15 +15,15 @@
 <!--Github stats-->
 
 <div align = "center">
-<img width = 400px src = "https://github-readme-stats.vercel.app/api?username=adynanaraujo&theme=graywhite&show_icons=true"/>
-</div>
+<a href = "https://github.com/AdynanAraujo"> <img width = 400px src = "https://github-readme-stats.vercel.app/api?username=adynanaraujo&theme=graywhite&show_icons=true"/>
+</div> </a>
 
 <!--Github stats-->
 
 <!--Most Used Languages-->
 
 <div align = center>
-<img width = 400px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adynanaraujo&layout=compact"/>
+<a href = "https://github.com/AdynanAraujo"> <img width = 400px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adynanaraujo&layout=compact"/> </a>
 </div>
 
 <!--Most Used Languages-->
