@@ -2,9 +2,7 @@
   Hello 🌎 
 </h1>
 
-<h3 align="center">
-  Programar é uma jornada de aprendizado constante!
-</h3>
+
 
 
 <!--Contact me -->
