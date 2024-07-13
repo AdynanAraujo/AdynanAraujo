@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 90vw;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+   
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    text-align: center;
+    margin: 10px;
+}
+
+ul li a { 
+     text-decoration: none;
+     color: black;
+}
+
+nav ul li a:hover {  
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    
+}
+
+.section {
+    width: 90vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 15vh; 
+    scroll-behavior: smooth;
+  
+}
+
+#menu_icon {
+    display: flex;
+    position: fixed;
+
+}
+#icon img{
+    width: 50px;
+}
+
+#icon a{
+    border: none;
+}
+
+ul#menu {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#icon {
+    display: flex;
+}
+
+li {
+    margin: 10px;
+}
+
+#menu_icon {
+    display: none;
+}
+
+#menu_close {
+    display: none;
+}
+
+footer {
+    display: flex;
+    width: 90vw;
+    height: 30vh;
+    margin: 0 auto;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+footer div{
+    margin: 10px;
+}
+
+
+#curriculo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#curriculo a{
+    text-decoration: none;
+    color: gray;
+}
+
+@media (max-width: 720px) {
+   
+    ul#menu {
+        display: none;
+        flex-direction: column;
+    }
+
+    #menu_icon {
+        display: flex;
+        left: 20px;
+    }
+   
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        list-style: none;
+        text-align: center;
+    }
+
+    ul#menu li {
+        text-align: center;
+        justify-content: center;
+    }
+
+    ul#menu.active {
+        display: flex;
+        justify-content: center;
+    }
+
+    li#icon.out {
+        display: none;
+    }
+
+    #menu_close.active {
+        display: flex;
+    }
+
+    #burger_menu.out {
+        display: none;
+    }
+}

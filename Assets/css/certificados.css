@@ -1,0 +1,59 @@
+#certificados {
+  display: flex;
+}
+
+#certificados ul {
+  flex-direction: column;
+}
+
+#title {
+  font-size: 20px;
+}
+
+#msg {
+  color: gray;
+}
+
+#btn {
+  width: 100px;
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 5%;
+  color: white;
+  background-color: black;
+}
+
+#btn:hover {
+  background-color: white;
+  color: black;
+}
+
+#buscarCertificados {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#resultado {
+  width: auto;
+  min-height: 400px;
+}
+
+.notFoundResult {
+  color: gray;
+}
+
+#resultado span a {
+  display: flex;
+  border-bottom: none;
+  text-align: left;
+  flex-wrap: wrap;
+  min-width: 200px;
+  max-width: 30vw;
+}
+
+#resultado span a:hover {
+  display: flex;
+  border-bottom: none;
+  color: gray;
+}
